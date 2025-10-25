@@ -1,0 +1,38 @@
+
+Focus on building Proof of Concept (POC) applications to demonstrate the feasibility and value of AI solutions
+Write clean, efficient, and well-documented code
+Collaborate with data engineers to ensure data quality and availability for model training and evaluation
+Work closely with senior team members to understand project requirements and contribute to technical solutions
+Troubleshoot and debug AI/ML models and applications
+Stay up-to-date with the latest advancements in AI/ML
+Utilize machine learning frameworks (eg, TensorFlow, PyTorch, Scikit-learn) to develop and deploy models
+Develop and deploy AI solutions on Google Cloud Platform (GCP)
+Implement data preprocessing and feature engineering techniques using libraries like Pandas and NumPy
+Utilize Vertex AI for model training, deployment, and management
+Integrate and leverage Google Gemini for specific AI functionalities
+
+Qualifications: 
+
+Bachelor's degree in Computer Science, Artificial Intelligence, or a related field
+3+ years of experience in developing and implementing AI/ML models
+Strong programming skills in Python
+Experience with machine learning frameworks such as TensorFlow, PyTorch, or Scikit-learn
+Good understanding of machine learning concepts and techniques
+Ability to work independently and as part of a team
+Strong problem-solving skills
+Good communication skills
+Experience with Google Cloud Platform (GCP) is preferred
+Familiarity with Vertex AI is a plus
+
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+
+Key Skills
+
+Computer science, GCP, Artificial Intelligence, learning, Programming, Deployment, Data quality, Management, Troubleshooting, Python

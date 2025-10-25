@@ -1,0 +1,39 @@
+AI/ML Development Engineer
+
+Data Analysis and Modeling: Collect, preprocess, and analyze large datasets from various sources including sensors, IoT devices, and historical records. Develop predictive models, anomaly detection algorithms, and optimization algorithms using machine learning techniques such as regression, classification, clustering, and deep learning.
+
+Algorithm Development: Design and implement AI/ML algorithms tailored to specific energy sector applications, such as predictive maintenance for power plants, fault detection in renewable energy systems, and optimization of energy distribution networks.
+
+Model Deployment and Integration: Deploy AI/ML models into production environments, ensuring scalability, reliability, and real-time performance. Integrate models with existing software systems and data pipelines and collaborate with software engineers to develop APIs and interfaces for seamless integration.
+
+Continuous Improvement: Monitor model performance and reliability in production, and iterate on models to improve accuracy, efficiency, and robustness. Stay updated with the latest advancements in AI/ML research and technologies and incorporate relevant innovations into existing workflows.
+
+Cross-functional Collaboration: Collaborate with cross-functional teams including data scientists, engineers, domain experts, and business stakeholders to understand requirements, gather feedback, and align AI/ML solutions with business objectives and operational needs.
+
+Regulatory Compliance: Ensure compliance with regulatory standards and industry best practices related to data privacy, security, and ethical use of AI/ML technologies in the energy sector.
+
+Documentation and Reporting: Document model development processes, experimental results, and technical specifications in detail. Prepare reports, presentations, and documentation to communicate findings, insights, and recommendations to internal teams and external stakeholders.
+
+Requirements:
+
+BS or MS degree in computer science, Electrical Engineering, Data Science, or a related field.
+Strong proficiency in programming languages such as Python, R, or Java, and familiarity with libraries/frameworks such as TensorFlow, PyTorch, scikit-learn, and Keras.
+Experience with data preprocessing, feature engineering, and exploratory data analysis (EDA) techniques.
+Solid understanding of machine learning algorithms and techniques, including supervised learning, unsupervised learning, and reinforcement learning.
+Hands-on experience with building and deploying AI/ML models in production environments using cloud platforms (e.g., AWS, Azure, Google Cloud) and containerization technologies (e.g., Docker, Kubernetes).
+Excellent problem-solving skills, analytical thinking, and attention to detail.
+Effective communication skills with the ability to explain complex technical concepts to non-technical stakeholders.
+Experience in the energy sector or related industries (e.g., utilities, renewable energy, oil gas) is a plus.
+
+Role: Machine Learning Engineer
+Industry Type: Power
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+
+Key Skills
+
+Computer science, Semiconductor, Data analysis, Renewable energy, Analytical, Machine learning, Sensors, Continuous improvement, Automotive, Python

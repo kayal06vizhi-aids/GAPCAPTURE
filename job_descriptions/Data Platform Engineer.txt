@@ -1,0 +1,29 @@
+Data Platform Engineer
+
+
+We are seeking a Data Platform Engineer to manage and optimize our data infrastructure, ensuring data availability, reliability, and performance for analytics and ML workloads.
+
+Responsibilities:
+
+Design and maintain scalable data pipelines and ETL processes
+Work with cloud-based data platforms (AWS, GCP, Azure)
+Ensure data quality, consistency, and governance
+Collaborate with data scientists and analysts to support ML and BI initiatives
+Monitor and troubleshoot data platform issues
+
+Requirements:
+
+Strong knowledge of SQL, Python, and data warehousing
+Experience with ETL tools and pipeline orchestration (Airflow, Prefect)
+Familiarity with big data technologies (Spark, Hadoop)
+Knowledge of cloud storage, data lakes, and data pipelines
+
+Nice to Have:
+
+Experience with ML pipelines and MLOps tools
+Knowledge of Docker and containerization
+Understanding of analytics and visualization tools (Tableau, Power BI)
+
+Key Skills:
+
+SQL, Python, ETL, Data Warehousing, Airflow, Prefect, Spark, Hadoop, AWS, GCP, Azure, Data Lakes, Docker, MLOps, Tableau, Power BI

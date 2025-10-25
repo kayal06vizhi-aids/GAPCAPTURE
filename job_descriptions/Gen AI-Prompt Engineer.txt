@@ -1,0 +1,7 @@
+Gen AI/Prompt Engineer
+
+We are seeking a highly skilled Gen AI/Prompt Engineer with 0 to 15 years of experience to design and develop generative AI models and algorithms utilizing GPT, VAE, and GANs. The ideal candidate will have experience in AI models and projects, cloud platforms such as AWS, Azure, and GCP, and proficiency in Python.
+
+Key Skills:
+
+Python, Machine Learning, Deep Learning, NLP, GCP, AWS, Azure, Neural Networks

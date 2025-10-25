@@ -1,0 +1,47 @@
+Data Science Engineer
+
+We’re seeking a skilled and hands-on Data Science Engineer with expertise in AI/ML to join our team. You’ll work on developing, deploying, and optimizing machine learning models that directly impact business outcomes. This is a highly collaborative role involving data scientists, ML engineers, and product teams to build and ship intelligent solutions at scale.
+
+Key Responsibilities:
+
+Design, develop, and deploy ML models (supervised, unsupervised, NLP, etc.)
+Build robust data pipelines for model training and inference
+Perform data exploration, preprocessing, and feature engineering
+Optimize model performance using experimentation and A/B testing
+Work with product managers and software engineers to integrate models into production systems
+Monitor and retrain models as needed to ensure long-term performance
+Document model architecture, decisions, and performance metrics
+
+Requirements:
+
+5+ years of experience in data science, machine learning, or AI roles
+Strong Python skills, including Pandas, NumPy, scikit-learn
+Experience with deep learning frameworks (TensorFlow, PyTorch)
+Solid SQL skills and experience working with large datasets
+Good understanding of model evaluation techniques (e.g., precision, recall, F1)
+Exposure to cloud platforms (AWS, GCP, Azure) and version control (Git)
+Ability to build and productionize ML solutions
+Strong communication and problem-solving skills
+
+Nice to Have:
+
+Experience with MLOps tools (MLflow, Kubeflow, Airflow)
+Familiarity with LLMs or generative AI concepts
+Experience with containerization (Docker, Kubernetes)
+Knowledge of data lake/data warehouse architectures
+
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+Education:
+
+UG: Any Graduate
+
+PG: Any Postgraduate
+
+Doctorate: Not Required
+
+Key Skills (cleaned for extraction):
+Python, R, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Keras, Deep Learning, Machine Learning, NLP, Natural Language Processing, Docker, Kubernetes, Airflow, Git, Azure, AWS, GCP, Data Warehousing, Data Lake, Spark, Problem-Solving, Communication

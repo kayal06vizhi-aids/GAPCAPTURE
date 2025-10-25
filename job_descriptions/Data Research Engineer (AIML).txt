@@ -1,0 +1,55 @@
+Responsibilities:
+
+Develop methods to leverage the potential of LLM and AI within the team.
+Proactive in finding new solutions to engage the team with AI/LLM, and streamline processes in the team.
+Be a visionary with AI/LLM tools and predict how the use of future technologies can be harnessed early on, so that when these technologies emerge, the team is ahead of the game in terms of how they can be utilized.
+Assist in acquiring and integrating data from various sources, including web crawling and API integration.
+Stay updated with emerging technologies and industry trends.
+Explore third-party technologies as alternatives to legacy approaches for efficient data pipelines.
+Contribute to cross-functional teams in understanding data requirements and needs.
+Assume accountability for achieving development milestones.
+Prioritize tasks to ensure timely delivery in a fast-paced environment with rapidly changing priorities.
+Collaborate with and assist fellow members of the Data Research Engineering Team as required.
+Leverage online resources effectively like StackOverflow, ChatGPT, Bard, etc., while considering their capabilities and limitations.
+
+Skills and Experience:
+
+Bachelor's degree in Computer Science, Data Science, or a related field. Higher qualifications are a plus.
+Think proactively and creatively regarding the next AI/LLM technologies and how to use them to the team's and the company's benefit.
+Think outside the box mentality.
+Experience prompting LLMs in a streamlined way, taking into account how the LLM can potentially hallucinate and return wrong information.
+Experience building agentic AI platforms with modular capabilities and autonomous task execution. (crewai, lagchain, etc.)
+Proficient in implementing Retrieval-Augmented Generation (RAG) pipelines for dynamic knowledge integration. (chromadb, pinecone, etc.)
+Experience managing a team of AI/LLM experts is a plus: this includes setting up goals and objectives for the team and fine-tuning complex models.
+Strong proficiency in Python programming
+Proficiency in SQL and data querying is a plus.
+Familiarity with web crawling techniques and API integration is a plus, but not a must.
+Experience in AI/ML engineering and data extraction
+Experience with LLMs, NLP frameworks (spaCy, NLTK, Hugging Face, etc.)
+Strong understanding of machine learning frameworks (TensorFlow, PyTorch)
+Design and build AI models using LLMs
+Integrate LLM solutions with existing systems via APIs
+Collaborate with the team to implement and optimize AI solutions
+Monitor and improve model performance and accuracy
+Familiarity with Agile development methodologies is a plus.
+Strong problem-solving and analytical skills with attention to detail.
+Creative and critical thinking.
+Ability to work collaboratively in a team environment.
+Good and effective communication skills.
+Experience with version control systems, such as Git, for collaborative development.
+Ability to thrive in a fast-paced environment with rapidly changing priorities.
+Comfortable with autonomy and ability to work independently.
+
+
+Role: Machine Learning Engineer
+Industry Type: IT Services & Consulting
+Department: Data Science & Analytics
+Employment Type: Full Time, Permanent
+Role Category: Data Science & Machine Learning
+
+Education
+UG: Any Graduate
+PG: Any Postgraduate
+
+Key Skills
+Computer science, Version control research, Agile development, Machine learning, web crawling, SQL, Python, Data extraction

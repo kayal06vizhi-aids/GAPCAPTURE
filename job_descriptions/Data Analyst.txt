@@ -1,0 +1,26 @@
+Data Analyst
+
+The candidate should have experience with SQL, Python, Excel, Tableau, and Power BI. Must be proficient in data visualization and statistical analysis.
+
+Responsibilities:
+
+* Analyze data to identify trends and insights
+* Create dashboards and reports for business teams
+* Collaborate with stakeholders to define KPIs
+* Ensure data quality and integrity
+
+Requirements:
+
+* Strong knowledge of SQL, Python, and Excel
+* Experience with Tableau and Power BI
+* Statistical analysis skills
+* Excellent problem-solving and communication skills
+
+Nice to Have:
+
+* Experience with Python libraries like Pandas, NumPy, and Matplotlib
+* Knowledge of cloud platforms (AWS, GCP, Azure)
+
+Key Skills:
+
+SQL, Python, Excel, Tableau, Power BI, Statistics, Data Visualization, Pandas, NumPy, Matplotlib
