@@ -1,38 +1,9 @@
-Skills
-Python
-R
-Java
-TensorFlow
-PyTorch
-Scikit-learn
-Keras
-Pandas
-SQL
-NumPy
-Excel
-Matplotlib
-Seaborn
-Plotly
-Tableau
-Power BI
-Git
-Docker
-Statistics
-Probability
-Linear Algebra
-Calculus
-Machine Learning
-Deep Learning
-Neural Networks
-CNN
-RNN
-Natural Language Processing
-Communication
-Problem-Solving
-Teamwork
-Adaptability
-Creativity
-AWS
-GCP
-Azure
-Project Management
+job_title,skills
+AI Engineer,"python, tensorflow, pytorch, scikit-learn, gcp, vertex ai, pandas, numpy, deployment, poc"
+AI/ML Development Engineer,"python, r, java, tensorflow, pytorch, scikit-learn, keras, docker, kubernetes, aws, azure, gcp, sensors, iot, anomaly detection"
+Data Analyst,"sql, python, excel, tableau, power bi, statistics, data visualization, pandas, numpy, matplotlib"
+Data Platform Engineer,"sql, python, etl, data warehousing, airflow, prefect, spark, hadoop, aws, gcp, azure, data lakes, docker, mlops, tableau, power bi"
+Data Research Engineer (AIML),"python, sql, web crawling, api integration, rag, chromadb, pinecone, langchain, crewai, hugging face, spacy, nlp, llm, git"
+Data Science Engineer,"python, sql, pandas, numpy, scikit-learn, tensorflow, pytorch, docker, kubernetes, airflow, git, aws, azure, gcp, mlops"
+Gen AI / Prompt Engineer,"python, machine learning, deep learning, nlp, aws, azure, gcp, gpt, vae, gan"
+NLP Engineer,"python, pytorch, tensorflow, nlp, machine learning algorithms, azure, aws, mlops, deployment"
