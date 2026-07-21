@@ -24,7 +24,7 @@ Suggested roles based on skill similarity
 🛠️ Tech Stack
 
 Python
-Flask
+Streamlit
 Machine Learning
 Pandas / NumPy
 Pickle models (.pkl)
@@ -42,3 +42,5 @@ GapCapture/
 ├── requirements.txt       # Required libraries
 ├── skill_dataset.csv      # Skills dataset
 └── training_dataset.csv   # Training dataset used for model
+
+Note: model_code.py/model.pkl reflect an earlier ML-classification prototype; the current app uses hybrid rule-based + TF-IDF/NLP matching
